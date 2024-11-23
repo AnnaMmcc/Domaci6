@@ -1,0 +1,21 @@
+.pesma {
+	text-align: center;
+	display: inline-block;
+	padding: 1px;
+}
+.slika {
+	border-radius: 10px;
+	width: 250px;
+	height: 150px;
+	margin: 10px;
+	padding: 0px;
+}
+footer {
+	color: gray;
+}
+p {
+	margin: auto;
+}
+.centriraniElementi {
+	text-align: center;
+}
